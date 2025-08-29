@@ -11,3 +11,4 @@ PyPDF2
 openpyxl
 snowflake-sqlalchemy
 nbformat
+snowflake-connector-python[pandas]
