@@ -1,0 +1,13 @@
+pandas
+numpy
+pyodbc
+snowflake-connector-python
+sqlalchemy
+thefuzz
+matplotlib
+python-dotenv
+plotly
+PyPDF2
+openpyxl
+snowflake-sqlalchemy
+nbformat
